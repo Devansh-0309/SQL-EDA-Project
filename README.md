@@ -3,7 +3,9 @@
 ## Overview
 Exploratory Data Analysis is a process to get to know the insights of the database. It is performed by data analyst/engineers to help the buisness grow.
 
-## Steps
+## Architechture
+![image](https://github.com/user-attachments/assets/4d1399a2-eb4e-4191-b4b0-b888b4809e50)
+
 We have divided this process into six different parts
 
 ### 1. Database Exploration
