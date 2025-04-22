@@ -33,3 +33,8 @@ We have divided this process into six different parts
 **Purpose:**
     We explore columns by concept **Rank[Dimension] By Aggregate[Measures]** 
     This is used to rank the dimensions by different measures for e.g (total sales by country etc.)
+
+
+## License 
+This project has the license as MIT.
+This states that this project is free to modify, save and to transfer.
